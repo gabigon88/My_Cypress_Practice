@@ -1,0 +1,14 @@
+{
+  "name": "my-cypress-test",
+  "version": "1.0.0",
+  "description": "test",
+  "main": "server.js",
+  "scripts": {
+	"cypress:open": "cypress open"
+  },
+  "author": "bob",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^3.4.1"
+  }
+}
