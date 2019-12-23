@@ -4,11 +4,11 @@
   "description": "test",
   "main": "server.js",
   "scripts": {
-	"cypress:open": "cypress open"
+    "cypress:open": "cypress open"
   },
   "author": "bob",
   "license": "ISC",
   "devDependencies": {
-    "cypress": "^3.4.1"
+    "cypress": "^3.6.1"
   }
 }
