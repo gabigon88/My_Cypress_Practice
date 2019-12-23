@@ -25,4 +25,4 @@ Cypress 是用 Javascript 執行的，所以要先安裝 Node.js
 <img src="./tutorial01.png"/>  
 
 ## 後記
-參照：<a herf="https://www.itread01.com/content/1543765093.html">e2e測試框架之Cypress</a>
+參照：<a href="https://www.itread01.com/content/1543765093.html" target="_blank">e2e測試框架之Cypress</a>
